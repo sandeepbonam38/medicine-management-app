@@ -1,0 +1,242 @@
+[
+  {
+    "fullName": "Paracetamol 500mg",
+    "notes": "Take after food",
+    "expiryDate": "2026-12-31",
+    "quantity": 10,
+    "price": 25.50,
+    "brand": "Dolo"
+  },
+  {
+    "fullName": "Amoxicillin 250mg",
+    "notes": "Take twice daily after meals",
+    "expiryDate": "2025-10-15",
+    "quantity": 20,
+    "price": 120.00,
+    "brand": "Mox"
+  },
+  {
+    "fullName": "Cetirizine 10mg",
+    "notes": "Take at night for allergy",
+    "expiryDate": "2027-03-20",
+    "quantity": 15,
+    "price": 45.75,
+    "brand": "Zyrtec"
+  },
+  {
+    "fullName": "Ibuprofen 400mg",
+    "notes": "Use for pain relief",
+    "expiryDate": "2026-08-10",
+    "quantity": 25,
+    "price": 60.00,
+    "brand": "Brufen"
+  },
+  {
+    "fullName": "Azithromycin 500mg",
+    "notes": "Once daily for 3 days",
+    "expiryDate": "2025-11-05",
+    "quantity": 12,
+    "price": 150.00,
+    "brand": "Azee"
+  },
+  {
+    "fullName": "Metformin 500mg",
+    "notes": "Take with meals",
+    "expiryDate": "2027-01-12",
+    "quantity": 30,
+    "price": 80.00,
+    "brand": "Glycomet"
+  },
+  {
+    "fullName": "Omeprazole 20mg",
+    "notes": "Before breakfast",
+    "expiryDate": "2026-06-18",
+    "quantity": 18,
+    "price": 95.00,
+    "brand": "Omez"
+  },
+  {
+    "fullName": "Aspirin 75mg",
+    "notes": "Blood thinner usage",
+    "expiryDate": "2026-09-30",
+    "quantity": 40,
+    "price": 30.00,
+    "brand": "Ecosprin"
+  },
+  {
+    "fullName": "Loratadine 10mg",
+    "notes": "For allergy relief",
+    "expiryDate": "2027-02-14",
+    "quantity": 22,
+    "price": 55.25,
+    "brand": "Claritin"
+  },
+  {
+    "fullName": "Cough Syrup 100ml",
+    "notes": "Take 10ml thrice daily",
+    "expiryDate": "2025-09-01",
+    "quantity": 50,
+    "price": 75.00,
+    "brand": "Benadryl"
+  },
+  {
+    "fullName": "Vitamin C 500mg",
+    "notes": "Once daily supplement",
+    "expiryDate": "2027-07-07",
+    "quantity": 60,
+    "price": 40.00,
+    "brand": "Limcee"
+  },
+  {
+    "fullName": "Calcium 500mg",
+    "notes": "For bone health",
+    "expiryDate": "2026-12-01",
+    "quantity": 35,
+    "price": 110.00,
+    "brand": "Shelcal"
+  },
+  {
+    "fullName": "Dolo Cold Tablet",
+    "notes": "For fever and cold",
+    "expiryDate": "2026-04-22",
+    "quantity": 28,
+    "price": 35.00,
+    "brand": "Dolo"
+  },
+  {
+    "fullName": "Ranitidine 150mg",
+    "notes": "For acidity",
+    "expiryDate": "2025-12-11",
+    "quantity": 16,
+    "price": 65.00,
+    "brand": "Zinetac"
+  },
+  {
+    "fullName": "Hydroxychloroquine 200mg",
+    "notes": "As prescribed only",
+    "expiryDate": "2026-05-05",
+    "quantity": 14,
+    "price": 180.00,
+    "brand": "HCQ"
+  },
+  {
+    "fullName": "Dexamethasone 4mg",
+    "notes": "Steroid use under supervision",
+    "expiryDate": "2027-08-19",
+    "quantity": 12,
+    "price": 90.00,
+    "brand": "Dexa"
+  },
+  {
+    "fullName": "Montelukast 10mg",
+    "notes": "For asthma control",
+    "expiryDate": "2026-10-10",
+    "quantity": 20,
+    "price": 130.00,
+    "brand": "Montek"
+  },
+  {
+    "fullName": "Pantoprazole 40mg",
+    "notes": "Before breakfast",
+    "expiryDate": "2025-07-15",
+    "quantity": 25,
+    "price": 85.00,
+    "brand": "Pan"
+  },
+  {
+    "fullName": "Fexofenadine 120mg",
+    "notes": "For seasonal allergy",
+    "expiryDate": "2027-01-25",
+    "quantity": 18,
+    "price": 70.00,
+    "brand": "Allegra"
+  },
+  {
+    "fullName": "Multivitamin Tablet",
+    "notes": "Daily health supplement",
+    "expiryDate": "2026-11-30",
+    "quantity": 100,
+    "price": 150.00,
+    "brand": "Revital"
+  },
+  {
+    "fullName": "Zinc 50mg",
+    "notes": "Immune support",
+    "expiryDate": "2027-03-10",
+    "quantity": 45,
+    "price": 55.00,
+    "brand": "Zincovit"
+  },
+  {
+    "fullName": "Diclofenac 50mg",
+    "notes": "Pain and inflammation",
+    "expiryDate": "2025-08-08",
+    "quantity": 22,
+    "price": 42.00,
+    "brand": "Voveran"
+  },
+  {
+    "fullName": "Salbutamol Inhaler",
+    "notes": "Use during asthma attack",
+    "expiryDate": "2026-09-09",
+    "quantity": 8,
+    "price": 250.00,
+    "brand": "Asthalin"
+  },
+  {
+    "fullName": "Clotrimazole Cream",
+    "notes": "Apply twice daily",
+    "expiryDate": "2027-06-06",
+    "quantity": 30,
+    "price": 60.00,
+    "brand": "Candid"
+  },
+  {
+    "fullName": "Domperidone 10mg",
+    "notes": "Before meals",
+    "expiryDate": "2025-10-20",
+    "quantity": 18,
+    "price": 48.00,
+    "brand": "Motilium"
+  },
+  {
+    "fullName": "Loperamide 2mg",
+    "notes": "For diarrhea",
+    "expiryDate": "2026-02-14",
+    "quantity": 25,
+    "price": 35.00,
+    "brand": "Imodium"
+  },
+  {
+    "fullName": "Chlorpheniramine 4mg",
+    "notes": "For cold symptoms",
+    "expiryDate": "2027-05-01",
+    "quantity": 40,
+    "price": 28.00,
+    "brand": "Avil"
+  },
+  {
+    "fullName": "Insulin Injection",
+    "notes": "Use as prescribed",
+    "expiryDate": "2026-12-20",
+    "quantity": 5,
+    "price": 500.00,
+    "brand": "Human Mixtard"
+  },
+  {
+    "fullName": "Atorvastatin 10mg",
+    "notes": "For cholesterol control",
+    "expiryDate": "2027-04-18",
+    "quantity": 20,
+    "price": 95.00,
+    "brand": "Lipitor"
+  },
+  {
+    "fullName": "Thyroxine 50mcg",
+    "notes": "Take morning empty stomach",
+    "expiryDate": "2026-07-07",
+    "quantity": 30,
+    "price": 25.00,
+    "brand": "Eltroxin"
+  }
+]

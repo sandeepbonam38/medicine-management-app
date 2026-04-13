@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ABCPharmacy.API/ABCPharmacy.API.csproj" />
+  <Project Path="ABCPharmacy.Application/ABCPharmacy.Application.csproj" />
+  <Project Path="ABCPharmacy.Domain/ABCPharmacy.Domain.csproj" />
+  <Project Path="ABCPharmacy.Infrastructure/ABCPharmacy.Infrastructure.csproj" />
+</Solution>
