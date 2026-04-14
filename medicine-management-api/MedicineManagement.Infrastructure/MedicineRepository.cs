@@ -18,7 +18,7 @@ namespace MedicineManagement.Infrastructure
         {
           try
           {
-                var filePath = Path.Combine(_config.JsonFilePath);
+                var filePath = Path.Combine(Directory.GetCurrentDirectory(), _config.JsonFilePath);
 
                 if (!File.Exists(filePath))
                     return new List<Medicine>();
