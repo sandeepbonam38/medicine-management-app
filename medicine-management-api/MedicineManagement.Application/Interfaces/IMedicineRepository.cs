@@ -6,12 +6,12 @@ namespace MedicineManagement.Application.MedicineRepositries
     {
         Task<List<Medicine>> GetAllMedicines();
 
-        Task<List<Medicine>> GetAllMedicines(int Id);
+        //Task<List<Medicine>> GetAllMedicines(int Id);
 
-        Task AddMedicine(Medicine medicine);
+        //Task AddMedicine(Medicine medicine);
 
-        Task UpdateMedicine(Medicine medicine);
+        //Task UpdateMedicine(Medicine medicine);
 
-        Task DeleteMedicine(int id);
+        //Task DeleteMedicine(int id);
     }
 }
