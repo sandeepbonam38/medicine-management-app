@@ -1,0 +1,274 @@
+[
+  {
+    "id": 1,
+    "fullName": "Paracetamol 500mg",
+    "notes": "Pain relief",
+    "expiryDate": "2026-04-20",
+    "quantity": 5,
+    "price": 25.50,
+    "brand": "Cipla"
+  },
+  {
+    "id": 2,
+    "fullName": "Ibuprofen 400mg",
+    "notes": "Anti-inflammatory",
+    "expiryDate": "2026-05-10",
+    "quantity": 8,
+    "price": 40.75,
+    "brand": "Dr Reddy's"
+  },
+  {
+    "id": 3,
+    "fullName": "Amoxicillin 250mg",
+    "notes": "Antibiotic",
+    "expiryDate": "2026-12-15",
+    "quantity": 50,
+    "price": 75.00,
+    "brand": "Sun Pharma"
+  },
+  {
+    "id": 4,
+    "fullName": "Cetirizine 10mg",
+    "notes": "Allergy relief",
+    "expiryDate": "2026-04-25",
+    "quantity": 9,
+    "price": 15.25,
+    "brand": "Zydus"
+  },
+  {
+    "id": 5,
+    "fullName": "Azithromycin 500mg",
+    "notes": "Respiratory infection",
+    "expiryDate": "2026-06-30",
+    "quantity": 60,
+    "price": 120.00,
+    "brand": "Lupin"
+  },
+  {
+    "id": 6,
+    "fullName": "Metformin 500mg",
+    "notes": "Diabetes control",
+    "expiryDate": "2027-01-10",
+    "quantity": 70,
+    "price": 35.40,
+    "brand": "Glenmark"
+  },
+  {
+    "id": 7,
+    "fullName": "Aspirin 75mg",
+    "notes": "Blood thinner",
+    "expiryDate": "2026-04-18",
+    "quantity": 6,
+    "price": 20.00,
+    "brand": "Bayer"
+  },
+  {
+    "id": 8,
+    "fullName": "Dolo 650mg",
+    "notes": "Fever",
+    "expiryDate": "2026-04-28",
+    "quantity": 3,
+    "price": 30.00,
+    "brand": "Micro Labs"
+  },
+  {
+    "id": 9,
+    "fullName": "Pantoprazole 40mg",
+    "notes": "Acidity",
+    "expiryDate": "2026-08-15",
+    "quantity": 25,
+    "price": 55.60,
+    "brand": "Alkem"
+  },
+  {
+    "id": 10,
+    "fullName": "Omeprazole 20mg",
+    "notes": "Ulcer",
+    "expiryDate": "2026-09-01",
+    "quantity": 12,
+    "price": 45.20,
+    "brand": "Torrent"
+  },
+
+  {
+    "id": 11,
+    "fullName": "Losartan 50mg",
+    "notes": "BP control",
+    "expiryDate": "2026-04-22",
+    "quantity": 4,
+    "price": 65.00,
+    "brand": "Cipla"
+  },
+  {
+    "id": 12,
+    "fullName": "Atorvastatin 10mg",
+    "notes": "Cholesterol",
+    "expiryDate": "2026-11-11",
+    "quantity": 40,
+    "price": 85.00,
+    "brand": "Sun Pharma"
+  },
+  {
+    "id": 13,
+    "fullName": "Clopidogrel 75mg",
+    "notes": "Heart",
+    "expiryDate": "2026-04-27",
+    "quantity": 7,
+    "price": 95.00,
+    "brand": "Lupin"
+  },
+  {
+    "id": 14,
+    "fullName": "Montelukast 10mg",
+    "notes": "Asthma",
+    "expiryDate": "2026-07-19",
+    "quantity": 15,
+    "price": 60.00,
+    "brand": "Cipla"
+  },
+  {
+    "id": 15,
+    "fullName": "Levocetirizine 5mg",
+    "notes": "Allergy",
+    "expiryDate": "2026-04-19",
+    "quantity": 2,
+    "price": 18.50,
+    "brand": "Dr Reddy's"
+  },
+  {
+    "id": 16,
+    "fullName": "Diclofenac 50mg",
+    "notes": "Pain",
+    "expiryDate": "2026-10-10",
+    "quantity": 22,
+    "price": 33.30,
+    "brand": "Zydus"
+  },
+  {
+    "id": 17,
+    "fullName": "Ranitidine 150mg",
+    "notes": "Acidity",
+    "expiryDate": "2026-04-21",
+    "quantity": 5,
+    "price": 28.00,
+    "brand": "GSK"
+  },
+  {
+    "id": 18,
+    "fullName": "Hydroxychloroquine 200mg",
+    "notes": "Autoimmune",
+    "expiryDate": "2027-02-02",
+    "quantity": 18,
+    "price": 110.00,
+    "brand": "Ipca"
+  },
+  {
+    "id": 19,
+    "fullName": "Insulin Injection",
+    "notes": "Diabetes",
+    "expiryDate": "2026-05-05",
+    "quantity": 9,
+    "price": 250.00,
+    "brand": "Novo Nordisk"
+  },
+  {
+    "id": 20,
+    "fullName": "Vitamin D3 60000 IU",
+    "notes": "Supplement",
+    "expiryDate": "2026-12-01",
+    "quantity": 35,
+    "price": 90.00,
+    "brand": "Mankind"
+  },
+
+  {
+    "id": 21,
+    "fullName": "Calcium Tablets",
+    "notes": "Bone health",
+    "expiryDate": "2026-04-23",
+    "quantity": 6,
+    "price": 70.00,
+    "brand": "Shelcal"
+  },
+  {
+    "id": 22,
+    "fullName": "ORS Sachet",
+    "notes": "Dehydration",
+    "expiryDate": "2026-06-10",
+    "quantity": 100,
+    "price": 10.00,
+    "brand": "Electral"
+  },
+  {
+    "id": 23,
+    "fullName": "Cough Syrup",
+    "notes": "Cold",
+    "expiryDate": "2026-04-26",
+    "quantity": 8,
+    "price": 65.00,
+    "brand": "Benadryl"
+  },
+  {
+    "id": 24,
+    "fullName": "Antacid Liquid",
+    "notes": "Acidity",
+    "expiryDate": "2026-09-15",
+    "quantity": 20,
+    "price": 55.00,
+    "brand": "Digene"
+  },
+  {
+    "id": 25,
+    "fullName": "Paracetamol Syrup",
+    "notes": "Kids fever",
+    "expiryDate": "2026-04-29",
+    "quantity": 3,
+    "price": 35.00,
+    "brand": "Calpol"
+  },
+  {
+    "id": 26,
+    "fullName": "Zinc Tablets",
+    "notes": "Immunity",
+    "expiryDate": "2026-11-20",
+    "quantity": 45,
+    "price": 40.00,
+    "brand": "Himalaya"
+  },
+  {
+    "id": 27,
+    "fullName": "Iron Tablets",
+    "notes": "Anemia",
+    "expiryDate": "2026-04-24",
+    "quantity": 9,
+    "price": 50.00,
+    "brand": "Dexorange"
+  },
+  {
+    "id": 28,
+    "fullName": "Eye Drops",
+    "notes": "Dry eyes",
+    "expiryDate": "2026-07-07",
+    "quantity": 14,
+    "price": 120.00,
+    "brand": "Refresh"
+  },
+  {
+    "id": 29,
+    "fullName": "Nasal Spray",
+    "notes": "Cold",
+    "expiryDate": "2026-04-30",
+    "quantity": 2,
+    "price": 150.00,
+    "brand": "Otrivin"
+  },
+  {
+    "id": 30,
+    "fullName": "Hand Sanitizer",
+    "notes": "Hygiene",
+    "expiryDate": "2027-05-01",
+    "quantity": 200,
+    "price": 75.00,
+    "brand": "Dettol"
+  }
+]

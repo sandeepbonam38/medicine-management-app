@@ -1,0 +1,12 @@
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Domain\bin\Debug\net9.0\MedicineManagement.Domain.deps.json
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Domain\bin\Debug\net9.0\MedicineManagement.Domain.dll
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Domain\bin\Debug\net9.0\MedicineManagement.Domain.pdb
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Domain\obj\Debug\net9.0\MedicineManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Domain\obj\Debug\net9.0\MedicineManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Domain\obj\Debug\net9.0\MedicineManagement.Domain.AssemblyInfo.cs
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Domain\obj\Debug\net9.0\MedicineManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Domain\obj\Debug\net9.0\MedicineManagement.Domain.sourcelink.json
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Domain\obj\Debug\net9.0\MedicineManagement.Domain.dll
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Domain\obj\Debug\net9.0\refint\MedicineManagement.Domain.dll
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Domain\obj\Debug\net9.0\MedicineManagement.Domain.pdb
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Domain\obj\Debug\net9.0\ref\MedicineManagement.Domain.dll

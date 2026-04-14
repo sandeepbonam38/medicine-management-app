@@ -1,0 +1,16 @@
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Application\bin\Debug\net9.0\MedicineManagement.Application.deps.json
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Application\bin\Debug\net9.0\MedicineManagement.Application.dll
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Application\bin\Debug\net9.0\MedicineManagement.Application.pdb
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Application\bin\Debug\net9.0\MedicineManagement.Domain.dll
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Application\bin\Debug\net9.0\MedicineManagement.Domain.pdb
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Application\obj\Debug\net9.0\MedicineManagement.Application.csproj.AssemblyReference.cache
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Application\obj\Debug\net9.0\MedicineManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Application\obj\Debug\net9.0\MedicineManagement.Application.AssemblyInfoInputs.cache
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Application\obj\Debug\net9.0\MedicineManagement.Application.AssemblyInfo.cs
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Application\obj\Debug\net9.0\MedicineManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Application\obj\Debug\net9.0\MedicineManagement.Application.sourcelink.json
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Application\obj\Debug\net9.0\Medicine.CAC88C0E.Up2Date
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Application\obj\Debug\net9.0\MedicineManagement.Application.dll
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Application\obj\Debug\net9.0\refint\MedicineManagement.Application.dll
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Application\obj\Debug\net9.0\MedicineManagement.Application.pdb
+C:\Users\HP\medicine-management-app\medicine-management-api\MedicineManagement.Application\obj\Debug\net9.0\ref\MedicineManagement.Application.dll

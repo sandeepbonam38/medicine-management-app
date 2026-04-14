@@ -35,3 +35,4 @@ C:\Users\HP\medicine-management-app\medicine-management-api\medicineAPI\obj\Debu
 C:\Users\HP\medicine-management-app\medicine-management-api\medicineAPI\obj\Debug\net9.0\medicineAPI.genruntimeconfig.cache
 C:\Users\HP\medicine-management-app\medicine-management-api\medicineAPI\obj\Debug\net9.0\ref\medicineAPI.dll
 C:\Users\HP\medicine-management-app\medicine-management-api\medicineAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\HP\medicine-management-app\medicine-management-api\medicineAPI\bin\Debug\net9.0\Data\MedicinesData.json
