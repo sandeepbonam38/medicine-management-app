@@ -29,6 +29,8 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
+app.Urls.Add("http://0.0.0.0:10000");
+
 // Enable Swagger
 if (app.Environment.IsDevelopment())
 {

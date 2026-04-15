@@ -13,7 +13,7 @@
     "fullName": "Ibuprofen 400mg",
     "notes": "Anti-inflammatory",
     "expiryDate": "2026-05-10",
-    "quantity": 8,
+    "quantity": 18,
     "price": 40.75,
     "brand": "Dr Reddy's"
   },
@@ -40,7 +40,7 @@
     "fullName": "Azithromycin 500mg",
     "notes": "Respiratory infection",
     "expiryDate": "2026-06-30",
-    "quantity": 60,
+    "quantity": 8,
     "price": 120.00,
     "brand": "Lupin"
   },
